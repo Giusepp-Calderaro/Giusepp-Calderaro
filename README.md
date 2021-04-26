@@ -10,9 +10,13 @@
         <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Giusepp-Calderaro" alt="">
     </a>
 
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img align="center"  height="165" src="https://github-readme-stats.vercel.app/api?username=Giusepp-Calderaro&count_private=true&show_icons=true&custom_title=github&20Status&hide=issues/>
-    </a>
+   <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img
+      align="center"
+      height="165"
+      src="https://github-readme-stats.vercel.app/api?username=teteusaraujo&count_private=true&show_icons=true&custom_title=Github%20Status&hide=issues"
+    />
+  </a>
 </p>
 
 ## Abilidades até então :nerd_face:
